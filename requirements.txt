@@ -1,0 +1,14 @@
+# SFC CLOUD EDITION - DEPENDÊNCIAS OTIMIZADAS
+# Versão para deploy no Render.com
+# Data: Novembro 2025
+
+streamlit>=1.28.0
+plotly>=5.15.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+cryptography>=41.0.0
+gunicorn>=21.0.0
+
+# Desenvolvimento (não necessário em produção)
+pytest>=7.4.0
