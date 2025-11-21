@@ -164,7 +164,7 @@ def extract_variables_from_text(text):
         'changeFrequency': change_frequency
     }
 
-# Funções para relatório
+# Funções para relatório TXT
 def generate_report_text(analysis_data):
     return f"""
 ╔════════════════════════════════════════════════════════════════════════════╗
